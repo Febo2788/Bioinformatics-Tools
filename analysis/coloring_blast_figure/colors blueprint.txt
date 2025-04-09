@@ -1,0 +1,20 @@
+Here’s what the colors you've provided look like:
+
+1 #FFF200: A vivid yellow.
+2 #B3FF50: A light lime green.
+3 #FF8E55: A bright orange.
+4 #33E8B2: A teal or turquoise.
+5 #7D3C98: A muted purple.
+6 #ED028C: A strong pink or magenta. for vf
+7 #BCBDC0: A gray
+8 #FB02FE: neon pink. for stx
+9 #99D9EA: pale blue
+10 #FF0000: pure Red
+11...
+
+#FB02FE,#99D9EA,#FF0000
+
+
+two colors, for inversion, off arrow, gray and blue starting from the inversion
+
+
